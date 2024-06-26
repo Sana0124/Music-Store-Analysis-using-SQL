@@ -4,6 +4,7 @@
 SQL project to analyze online music store data
 
 SQL PROJECT- MUSIC STORE DATA ANALYSIS 
+
 This has 3 sets of question level and we will be solving them one by one using the datasets.
 
 Question Set 1 - Easy 
